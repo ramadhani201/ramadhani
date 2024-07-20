@@ -251,10 +251,10 @@ body {
   margin: 1rem auto 0.5rem;
 }
  .menu p {
-    font-size: 2.5rem;
+    font-size: 1.8rem;
   }
    .menu h3 {
-    font-size: 3rem;
+    font-size: 2rem;
   }
 
 
@@ -296,7 +296,7 @@ body {
 }
 
 
-.proker h3 { font-size: 4rem;
+.proker h3 { font-size: 2.4rem;
 }
 .proker p { font-size: 1.5rem;
 }
@@ -514,7 +514,7 @@ footer .credit a {
   }
 
   .about .row .about-img img {
-    height: 50rem;
+    height: 60rem;
     object-fit: cover;
     object-position: center;
   }
