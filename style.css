@@ -210,7 +210,7 @@ body {
 .about .row .content p {
   margin-bottom: 0.8rem;
   font-size: 1.3rem;
-  font-weight: 100;
+  font-weight: 900;
   line-height: 1.6;
 }
 
@@ -565,4 +565,25 @@ footer .credit a {
   html {
     font-size: 45%;
   }
+}
+
+.about .row .content h3 {
+    margin-top: 1rem;
+    font-size: 2.4rem;
+  }
+
+  .about .row .content p {
+    font-size: 1.9rem;
+  }
+
+  .menu p {
+    font-size: 2rem;
+  }
+   .menu h3 {
+    font-size: 2.2rem;
+  }
+
+.proker h3 { font-size: 2.1rem;
+}
+.proker p { font-size: 1.8rem;
 }
